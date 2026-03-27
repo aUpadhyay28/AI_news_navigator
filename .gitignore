@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Env variables
+.env
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
+
+# DB (optional)
+*.db
