@@ -2,17 +2,17 @@
 __pycache__/
 *.pyc
 
-# Env
-.env
-
 # Virtual env
 .venv/
 
-# DB
-*.db
+# Env variables
+.env
+
+# IDE
+.idea/
 
 # OS
 .DS_Store
-# Default ignored files
-/shelf/
-/workspace.xml
+
+# DB (optional)
+*.db
