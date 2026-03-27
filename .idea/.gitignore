@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Env
+.env
+
+# Virtual env
+.venv/
+
+# DB
+*.db
+
+# OS
+.DS_Store
+# Default ignored files
+/shelf/
+/workspace.xml
